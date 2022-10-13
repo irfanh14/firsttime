@@ -1,2 +1,2 @@
-# firsttime
-belajarGIT
+# FIRST TIME
+Belajar GIT
